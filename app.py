@@ -24,7 +24,7 @@ server = app.server
 app.layout = html.Div([
 
     html.Div([
-        html.H1("Interactive DashBoard")
+        html.H1("Interactive DashBoard by Aditya Agarwal")
 
         ],style={'textAlign':'center'}),
 
